@@ -1,10 +1,12 @@
 # Group Discount App
 
-Group Duscount is a basic discount app to find groupd discount rates on ticket using the GoldStar API.
+Group Discount is a basic discount app to find groupd discount rates on ticket using the GoldStar API.
 
 Time spent: **** hours spent in total
 
 ## User Stories
+
+https://marvelapp.com/54a0hie
 
 The following **required** functionality is completed:
 
