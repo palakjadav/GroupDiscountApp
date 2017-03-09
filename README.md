@@ -5,6 +5,7 @@ Group Duscount is a basic discount app to find groupd discount rates on ticket u
 Time spent: **** hours spent in total
 
 ## User Stories
+https://marvelapp.com/54a0hie
 
 The following **required** functionality is completed:
 
